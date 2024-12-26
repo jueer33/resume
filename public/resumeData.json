@@ -1,19 +1,19 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "name":"王兰芝",
+    "description":"我是电子科技大学22级软件工程学生我了解并掌握了前端开发的基础知识，包括 HTML、CSS 和 JavaScript，能够灵活运用这些技术实现页面的结构、样式和交互功能。在框架部分，我了解 Vue3 框架，熟悉其核心概念如组件化、响应式数据绑定、生命周期钩子等，并能够合理运用 Vue3 框架进行项目的构建与开发。我利用vue3和JavaScript与团队其他成员一起实现了基于胶囊网络的深度伪造检测系统，并获得多项奖项。此外，在近几个月中，我利用 Vue3 和 TypeScript 结合 TMDB 接口，开发了一个影视可视化展示项目。在该项目中，我使用了 Element UI 组件库来提升页面的交互体验，并通过优化页面加载速度和响应式设计，进一步提升了用户体验。该项目不仅帮助我熟悉了 TypeScript 在前端开发中的应用，还提升了我在阅读和调用 API 文档方面的能力。同时，我使用 Node.js 和 MySQL 搭建了一个简单的用户后台系统，实现了用户信息的增删查改功能，进一步提升了我的开发能力。此外我作为前端开发以及算法实验成员与团队实现基于胶囊网络的伪造检查系统获 2023年多项全国二等奖，作为算法实验成员与团队领导者实现基于扩散模型的UI界面生成系统获得全国二等奖，作为前端开发成员与团队实现基于YOLO的道路缺陷检测系统获得全国三等奖。可能我的技术还有很大的提升空间，但是相信我会在技术的学习与困难的克服上，始终保持积极的态度和持续的学习热情，在团队的沟通与协作上，始终注重团队成员之间的有效沟通和高效协作，能够与团队成员紧密配合，共同解决问题。",
+    "image":"profilepic.png",
+    "bio":"熟练掌握HTML5 高级特性与CSS3 技术，能够灵活运用flex、grid布局等实现高效现代响应式网页设计与开发；● 掌握 JavaScript核心概念，如闭包、原型链、事件循环、异步编程等，并能运用这些原理解决复杂的前端问题；● 掌握Vue框架（Vue2 和Vue3 全家桶），能够独立完成项目开发、性能优化与维护，显著提升应用性能；● 掌握Vue技术栈（Vue-router、pinia、Vite、Axios），能够实现高效路由、状态管理、数据交互及项目的构建；● 熟悉Node.js、Java、Python，能高效协作后端，理解接口与业务逻辑，保障前后端对接。",
+    "contactmessage":"欢迎与我联系",
+    "email": "jueer33@gmail.com",
+    "phone": "17340227626",
+    "github":"https://github.com/jueer33/Films-list",
+    "project":"https://github.com/jueer33/Films-list",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"(成华区)",
+      "city":"(四川成都)",
+      "state":"(中国)",
+      "zip": "610000"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -49,9 +49,9 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
+        "school":"电子科技大学",
         "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
+        "graduated":"2026",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
@@ -82,23 +82,23 @@
       },
       {
         "name":"VueJs",
-        "level":"55%"
+        "level":"80%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"c",
+        "level":"70%"
       },
       {
         "name":"CSS",
         "level":"90%"
       },
       {
-        "name":"PHP",
+        "name":"javascript",
         "level":"80%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"HTML",
+        "level":"90%"
       },
       {
         "name":"JAVA",
